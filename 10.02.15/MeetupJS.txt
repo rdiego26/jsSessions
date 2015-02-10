@@ -1,0 +1,11 @@
+Install NodeJS
+Option 1. https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server
+
+Option 2. https://www.digitalocean.com/community/tutorials/how-to-install-an-upstream-version-of-node-js-on-ubuntu-12-04
+
+
+Install MongoDB
+- http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
+-------------------------------------------------------
+
+

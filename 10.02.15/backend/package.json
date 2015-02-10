@@ -1,0 +1,16 @@
+{
+  "name": "Backend_APP",
+  "version": "0.0.1",
+  "description": "API para o backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Ramos <rdiego26@gmail.com>",
+  "contributors": [],
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "express": "~4.2.0"
+  }
+}
